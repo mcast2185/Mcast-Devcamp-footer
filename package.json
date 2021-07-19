@@ -1,0 +1,27 @@
+{
+  "name": "devcamp-footer-js",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer to be generated for JS applications with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcast2185/Mcast-Devcamp-footer.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "js",
+    "footer"
+  ],
+  "author": "Mario Castro <ozymandias2185@gmail.com> (https://www.npmjs.com/~mcast2185)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mcast2185/Mcast-Devcamp-footer/issues"
+  },
+  "homepage": "https://github.com/mcast2185/Mcast-Devcamp-footer#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
